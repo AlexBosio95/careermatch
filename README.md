@@ -39,8 +39,6 @@ OPENAI_API_KEY=YOUR_API_KEY
 OPENAI_MODEL=google/gemma-3n-e2b-it:free
 OPENAI_BASE_URL=https://openrouter.ai/api/v1
 ```
-
-> CareerMatch uses only free LLM models available on OpenRouter.  
 > Rate limits may apply depending on the selected model.
 
 ---
